@@ -46,7 +46,7 @@ directory `build/chromium`.
 
 To get a local copy of the current code, clone it using git:
 
-    $ git clone https://github.com/mozilla/pdf.js.git
+    $ git clone https://github.com/bluesky-dragon/mypdfjs.git
     $ cd pdf.js
 
 Next, install Node.js via the [official package](https://nodejs.org) or via
